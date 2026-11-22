@@ -1,0 +1,47 @@
+# baselines.phext — the Automatic Shields baseline register
+
+Automatic Shields (eis, founded by Will 2026-11-21) watches usage
+patterns and dispatches against the baselines recorded here, and
+flags deviations for review. It never blocks. Each baseline is one
+scroll: what is expected, what counts as a deviation, and the
+source rule it came from. Source of truth: baselines.txt beside
+the builder (build_baselines.py); never hand-edit the .phext.
+
+Baselines recorded: 5
+
+Index (coordinate — id — name — check):
+- 1.1.1/1.1.1/1.1.2 — B1 — No inference workloads on ranch nodes unless Will specifically configures them — active
+- 1.1.1/1.1.1/1.1.3 — B2 — The Muse VM is never a download relay — active
+- 1.1.1/1.1.1/1.1.4 — B3 — Approvals are scope-bound — not covered in v1
+- 1.1.1/1.1.1/1.1.5 — B4 — Every dispatch has a recognized origin — active
+- 1.1.1/1.1.1/1.1.6 — B5 — Substrate usage follows the steering windows — not covered in v1
+# Baseline B1 — No inference workloads on ranch nodes unless Will specifically configures them
+
+Expected: Inference workloads (model runs, serving, rollouts, evaluations) run only where and as Will himself configures them. Ranch nodes are the home for builds, renders, and CPU/disk work. When Will does configure a ranch inference dispatch, the dispatch record says so — his direction is named in the record.
+Deviation: A record showing an inference workload dispatched to, run on, or served from a ranch node whose record carries no evidence that Will configured or directed it.
+Source: Standing rule (Will, 2026-11-12, AGENTS.md): "No inference workloads dispatched to ranch nodes unless Will specifically configures it."
+Check: active — shields.py check A over the task register
+# Baseline B2 — The Muse VM is never a download relay
+
+Expected: Bulk acquisition (clones, datasets, archives, model files) is downloaded remotely on the ranch node that needs the data. This VM coordinates by hash and by phext coordinate; it is never a download waypoint that streams bulk data onward to the ranch. Small files this VM downloads for its own local use are not the banned pattern.
+Deviation: A record showing bulk data downloaded to this VM and then transferred, streamed, or uploaded onward to a ranch node.
+Source: Standing rule (Will, 2026-11-17, AGENTS.md "Rarely use this box's disk"; corollary verbatim 2026-11-17 23:38 CST): "never download locally only to stream to the ranch, just download remotely on the ranch and coordinate via hashes and coordinates."
+Check: active — shields.py check B over the task register
+# Baseline B3 — Approvals are scope-bound
+
+Expected: An approval covers exactly the action, account, target, and scope it was granted for — one execution within its covers. An action outside its approval's scope, or an approval silently stretched to a different tool, account, or task, is outside the baseline even when the action itself is benign.
+Deviation: An action taken under an approval whose recorded scope does not cover that action's tool, target, or extent.
+Source: Standing approval discipline of the house; living instance 2026-11-21: the setup-claude.sh fleet run was held because the script on file had changed under the approval that named it, and ran only after Will approved the variant by name.
+Check: not covered in v1 — no machine-readable approval ledger exists for the checker to read; baseline recorded, no check claimed
+# Baseline B4 — Every dispatch has a recognized origin
+
+Expected: Dispatches originate from Will's chats (his words on file in the record, or Will named as the issuer), from his scheduled jobs, or from his standing rules. Scheduled jobs carry an origin trace: an originating-chat record in the job file, or a body citing its task coordinate, Will, or the standing rule it executes.
+Deviation: A task record with no origin evidence of any recognized kind, or a scheduled job whose file carries no origin trace — a dispatch nobody can attribute is a deviation regardless of what it does.
+Source: House dispatch discipline (dispatches are Will's instructions, his jobs, or his standing rules; record-first standing order, Will, 2026-11-17). Seeded as a baseline at the founding of Automatic Shields, 2026-11-21.
+Check: active — shields.py checks D-task and D-cron over the task register and the cron.d job inventory
+# Baseline B5 — Substrate usage follows the steering windows
+
+Expected: Burns follow the substrate steering chart (America/Chicago): Claude is the main burn target with a Wednesday 22:00 reset; Grok (Thursday 20:23 reset) is kept for Grok Bots; Muse (Friday reset) serves the Muse line; ChatGPT is a context reservoir and is never a burn target; local inference is unmetered. A substrate's budget is checked within its current window — a check never carries between windows.
+Deviation: Burn behavior aimed at the reservoir, or heavy use of a substrate outside the pattern its window and role define, or a window closing with no budget check recorded for a substrate that was worked.
+Source: Substrate steering standing record (substrate-steering skill; windows as recorded 2026-11-21). Note: the Muse account reported its own reset as Friday 21:47 CST on 2026-11-21 against the steering record's 16:10 — the discrepancy is flagged, unresolved, and the baseline carries both values until Will settles it.
+Check: not covered in v1 — no per-substrate burn log readable by this checker exists yet; baseline recorded, no check claimed

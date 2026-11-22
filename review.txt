@@ -1,0 +1,692 @@
+# review.txt — text source for review.phext (the Automatic Shields review register).
+# Flag atoms are appended by shields.py; a human may edit a disposition in place.
+# One block per flag, blocks separated by a line of ===. Fields are key: value.
+# Rebuild with build_review.py; never hand-edit the .phext.
+===
+id: F-2026-11-21-001
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 25.8.11/10.9.12/8.7.11 — Investo
+evidence: tasks-source.json record 25.8.11/10.9.12/8.7.11
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-002
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 35.5.8/7.6.10/6.5.9 — Incipit le
+evidence: tasks-source.json record 35.5.8/7.6.10/6.5.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-003
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 14.6.7/8.8.11/11.15.20 — lessons
+evidence: tasks-source.json record 14.6.7/8.8.11/11.15.20
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-004
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 29.5.8/7.5.10/6.5.9 — mutable_os
+evidence: tasks-source.json record 29.5.8/7.5.10/6.5.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-005
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 27.6.8/7.5.9/6.5.8 — Mutable SSO
+evidence: tasks-source.json record 27.6.8/7.5.9/6.5.8
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-006
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 34.5.9/8.6.12/6.5.9 — Lattice-fo
+evidence: tasks-source.json record 34.5.9/8.6.12/6.5.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-007
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 26.6.9/7.6.10/7.6.10 — Resume v7
+evidence: tasks-source.json record 26.6.9/7.6.10/7.6.10
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-008
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 24.6.14/8.9.16/11.6.8 — Twitter 
+evidence: tasks-source.json record 24.6.14/8.9.16/11.6.8
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-009
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 26.6.9/8.7.13/7.6.9 — Seventh C 
+evidence: tasks-source.json record 26.6.9/8.7.13/7.6.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-010
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 21.6.8/7.8.17/18.5.9 — Adversari
+evidence: tasks-source.json record 21.6.8/7.8.17/18.5.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-011
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 30.7.10/8.6.11/6.6.8 — D2/D4 clo
+evidence: tasks-source.json record 30.7.10/8.6.11/6.6.8
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-012
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 17.11.13/4.3.3/3.2.6 — Proceed: 
+evidence: tasks-source.json record 17.11.13/4.3.3/3.2.6
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-013
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 31.7.9/8.6.9/6.5.9 — Push phcc c
+evidence: tasks-source.json record 31.7.9/8.6.9/6.5.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-014
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 37.6.8/6.5.9/6.5.10 — Bidirectio
+evidence: tasks-source.json record 37.6.8/6.5.9/6.5.10
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-015
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 41.10.7/11.11.14/11.10.15 — phcc
+evidence: tasks-source.json record 41.10.7/11.11.14/11.10.15
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-016
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 56.12.4/13.14.17/12.12.18 — Fix 
+evidence: tasks-source.json record 56.12.4/13.14.17/12.12.18
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-017
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 57.10.6/11.12.18/13.10.17 — libp
+evidence: tasks-source.json record 57.10.6/11.12.18/13.10.17
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-018
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 38.6.7/7.6.12/8.5.10 — phcc buil
+evidence: tasks-source.json record 38.6.7/7.6.12/8.5.10
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-019
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 27.4.7/5.5.11/6.4.8 — Slice 6: l
+evidence: tasks-source.json record 27.4.7/5.5.11/6.4.8
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-020
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 49.3.6/4.4.12/5.3.10 — Slice 7: 
+evidence: tasks-source.json record 49.3.6/4.4.12/5.3.10
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-021
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 49.5.7/7.6.10/6.5.11 — F3: wire 
+evidence: tasks-source.json record 49.5.7/7.6.10/6.5.11
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-022
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 36.5.8/6.6.9/5.5.9 — C phext lib
+evidence: tasks-source.json record 36.5.8/6.6.9/5.5.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-023
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 29.9.10/10.8.15/9.7.10 — Grand m
+evidence: tasks-source.json record 29.9.10/10.8.15/9.7.10
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-024
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 36.10.13/12.11.15/12.10.14 — phe
+evidence: tasks-source.json record 36.10.13/12.11.15/12.10.14
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-025
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 37.5.7/6.5.9/5.5.9 — phcc DevUX 
+evidence: tasks-source.json record 37.5.7/6.5.9/5.5.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-026
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 37.4.21/8.8.18/4.4.9 — phcpp: C+
+evidence: tasks-source.json record 37.4.21/8.8.18/4.4.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-027
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 29.6.9/8.7.12/7.6.10 — Observed 
+evidence: tasks-source.json record 29.6.9/8.7.12/7.6.10
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-028
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 26.6.8/8.6.11/7.6.8 — quiet rive
+evidence: tasks-source.json record 26.6.8/8.6.11/7.6.8
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-029
+baseline: B1
+observed: Task record shows inference-related work aimed at ranch nodes with no Will-configuration evidence in the record: 35.5.12/7.7.12/7.6.9 — work
+evidence: tasks-source.json record 35.5.12/7.7.12/7.6.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-030
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 35.5.12/7.7.12/7.6.9 — work on f
+evidence: tasks-source.json record 35.5.12/7.7.12/7.6.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-031
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 28.7.10/9.7.13/6.6.9 — Active-ho
+evidence: tasks-source.json record 28.7.10/9.7.13/6.6.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-032
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 38.5.7/6.6.10/6.5.8 — phext-latt
+evidence: tasks-source.json record 38.5.7/6.6.10/6.5.8
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-033
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 25.6.8/8.6.10/6.6.11 — Crazy Wis
+evidence: tasks-source.json record 25.6.8/8.6.10/6.6.11
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-034
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 30.6.8/7.6.8/5.5.8 — TOAPDD PR #
+evidence: tasks-source.json record 30.6.8/7.6.8/5.5.8
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-035
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 41.6.9/8.7.12/7.6.11 — Refactor 
+evidence: tasks-source.json record 41.6.9/8.7.12/7.6.11
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-036
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 32.5.8/6.6.10/7.5.9 — MCP client
+evidence: tasks-source.json record 32.5.8/6.6.10/7.5.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-037
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 34.4.5/7.5.8/5.5.8 — Add Product
+evidence: tasks-source.json record 34.4.5/7.5.8/5.5.8
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-038
+baseline: B1
+observed: Task record shows inference-related work aimed at ranch nodes with no Will-configuration evidence in the record: 47.6.7/7.6.11/7.6.12 — Eval
+evidence: tasks-source.json record 47.6.7/7.6.11/7.6.12
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-039
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 47.6.7/7.6.11/7.6.12 — Evaluate 
+evidence: tasks-source.json record 47.6.7/7.6.11/7.6.12
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-040
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 36.5.7/9.6.9/6.5.9 — edit.phext.
+evidence: tasks-source.json record 36.5.7/9.6.9/6.5.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-041
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 31.7.7/7.6.11/6.5.10 — Fix edit.
+evidence: tasks-source.json record 31.7.7/7.6.11/6.5.10
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-042
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 34.6.11/7.5.11/5.6.8 — MCP conse
+evidence: tasks-source.json record 34.6.11/7.5.11/5.6.8
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-043
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 41.5.6/6.6.10/6.5.11 — Run the n
+evidence: tasks-source.json record 41.5.6/6.6.10/6.5.11
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-044
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 7.5.13/7.6.5/7.5.13 — Multics/Un
+evidence: tasks-source.json record 7.5.13/7.6.5/7.5.13
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-045
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 27.6.7/7.6.10/7.5.10 — phextura 
+evidence: tasks-source.json record 27.6.7/7.6.10/7.5.10
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-046
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 23.6.9/8.6.12/6.6.9 — Training f
+evidence: tasks-source.json record 23.6.9/8.6.12/6.6.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-047
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 15.8.9/9.7.10/6.7.9 — stone lamp
+evidence: tasks-source.json record 15.8.9/9.7.10/6.7.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-048
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 24.8.9/8.10.18/19.5.8 — garden w
+evidence: tasks-source.json record 24.8.9/8.10.18/19.5.8
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-049
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 24.5.7/6.5.11/6.5.8 — copper har
+evidence: tasks-source.json record 24.5.7/6.5.11/6.5.8
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-050
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 30.5.9/8.6.10/5.5.9 — Import the
+evidence: tasks-source.json record 30.5.9/8.6.10/5.5.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-051
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 24.6.10/8.8.13/7.7.10 — amber ve
+evidence: tasks-source.json record 24.6.10/8.8.13/7.7.10
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-052
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 30.7.9/9.7.12/6.6.10 — Publish e
+evidence: tasks-source.json record 30.7.9/9.7.12/6.6.10
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-053
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 25.6.7/9.6.12/6.6.8 — Schedule t
+evidence: tasks-source.json record 25.6.7/9.6.12/6.6.8
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-054
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 36.6.8/8.6.11/6.6.10 — qexo disk
+evidence: tasks-source.json record 36.6.8/8.6.11/6.6.10
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-055
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 33.8.8/8.8.11/9.7.10 — qexo v1.0
+evidence: tasks-source.json record 33.8.8/8.8.11/9.7.10
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-056
+baseline: B1
+observed: Task record shows inference-related work aimed at ranch nodes with no Will-configuration evidence in the record: 32.6.8/8.8.12/7.6.10 — Inst
+evidence: tasks-source.json record 32.6.8/8.8.12/7.6.10
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-057
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 32.6.8/8.8.12/7.6.10 — Install q
+evidence: tasks-source.json record 32.6.8/8.8.12/7.6.10
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-058
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 42.7.8/7.7.10/7.7.12 — qexo v1.0
+evidence: tasks-source.json record 42.7.8/7.7.10/7.7.12
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-059
+baseline: B1
+observed: Task record shows inference-related work aimed at ranch nodes with no Will-configuration evidence in the record: 23.6.7/7.8.12/10.5.7 — Enab
+evidence: tasks-source.json record 23.6.7/7.8.12/10.5.7
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-060
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 23.6.7/7.8.12/10.5.7 — Enable th
+evidence: tasks-source.json record 23.6.7/7.8.12/10.5.7
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-061
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 33.7.9/9.7.11/7.6.9 — SentientTe
+evidence: tasks-source.json record 33.7.9/9.7.11/7.6.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-062
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 27.8.10/9.8.12/8.7.9 — Port qexo
+evidence: tasks-source.json record 27.8.10/9.8.12/8.7.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-063
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 39.4.4/5.5.8/5.5.8 — Evaluate Go
+evidence: tasks-source.json record 39.4.4/5.5.8/5.5.8
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-064
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 26.7.9/9.6.11/6.6.9 — Accurate r
+evidence: tasks-source.json record 26.7.9/9.6.11/6.6.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-065
+baseline: B1
+observed: Task record shows inference-related work aimed at ranch nodes with no Will-configuration evidence in the record: 25.4.6/5.4.7/5.5.8 — qexo v
+evidence: tasks-source.json record 25.4.6/5.4.7/5.5.8
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-066
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 25.4.6/5.4.7/5.5.8 — qexo v1.4.1
+evidence: tasks-source.json record 25.4.6/5.4.7/5.5.8
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-067
+baseline: B1
+observed: Task record shows inference-related work aimed at ranch nodes with no Will-configuration evidence in the record: 30.6.9/7.5.9/5.5.7 — Make t
+evidence: tasks-source.json record 30.6.9/7.5.9/5.5.7
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-068
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 30.6.9/7.5.9/5.5.7 — Make the qe
+evidence: tasks-source.json record 30.6.9/7.5.9/5.5.7
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-069
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 25.7.8/8.7.10/7.7.9 — Include ph
+evidence: tasks-source.json record 25.7.8/8.7.10/7.7.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-070
+baseline: B1
+observed: Task record shows inference-related work aimed at ranch nodes with no Will-configuration evidence in the record: 23.8.9/10.8.13/8.7.10 — qex
+evidence: tasks-source.json record 23.8.9/10.8.13/8.7.10
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-071
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 23.8.9/10.8.13/8.7.10 — qexo tes
+evidence: tasks-source.json record 23.8.9/10.8.13/8.7.10
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-072
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 26.5.9/9.8.13/5.6.9 — Hourly pro
+evidence: tasks-source.json record 26.5.9/9.8.13/5.6.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-073
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 30.6.8/9.6.13/6.6.9 — Teach Will
+evidence: tasks-source.json record 30.6.8/9.6.13/6.6.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-074
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 26.5.9/6.5.9/5.5.8 — Fix qexo en
+evidence: tasks-source.json record 26.5.9/6.5.9/5.5.8
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-075
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 31.5.20/7.6.10/5.5.9 — Extract t
+evidence: tasks-source.json record 31.5.20/7.6.10/5.5.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-076
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 27.7.7/8.9.18/13.5.9 — paper lan
+evidence: tasks-source.json record 27.7.7/8.9.18/13.5.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-077
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 27.9.10/12.7.16/6.8.10 — blue mo
+evidence: tasks-source.json record 27.9.10/12.7.16/6.8.10
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-078
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 24.8.9/10.7.14/7.7.10 — bird bri
+evidence: tasks-source.json record 24.8.9/10.7.14/7.7.10
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-079
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 31.8.10/10.9.14/8.7.9 — Boardy h
+evidence: tasks-source.json record 31.8.10/10.9.14/8.7.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-080
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 11.2.4/7.6.6/3.4.8 — Hourly prod
+evidence: tasks-source.json record 11.2.4/7.6.6/3.4.8
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-081
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 35.8.11/10.9.14/9.7.11 — Progres
+evidence: tasks-source.json record 35.8.11/10.9.14/9.7.11
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-082
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 28.5.9/7.6.10/6.5.9 — GitHub gap
+evidence: tasks-source.json record 28.5.9/7.6.10/6.5.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-083
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 26.6.10/8.6.11/6.6.9 — Full GitH
+evidence: tasks-source.json record 26.6.10/8.6.11/6.6.9
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-084
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 18.4.4/4.4.5/5.3.5 — Phextron G-
+evidence: tasks-source.json record 18.4.4/4.4.5/5.3.5
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-085
+baseline: B4
+observed: Task record carries no origin evidence (no verbatim, no Will named, no standing rule, no scheduled origin): 21.8.8/7.8.11/12.7.8 — Phextron 
+evidence: tasks-source.json record 21.8.8/7.8.11/12.7.8
+source: tasks-source.json
+timestamp: 2026-11-21 23:57 CST
+disposition: open
+===
+id: F-2026-11-21-086
+baseline: B4
+observed: Scheduled job 'heartbeat' carries no origin trace (no originating-chat record; body cites no task coordinate, Will, standing rule, or skill)
+evidence: /home/hatch/workspace/cron.d/minutely/heartbeat__interval@30m.md
+source: cron.d job inventory
+timestamp: 2026-11-21 23:57 CST
+disposition: open
